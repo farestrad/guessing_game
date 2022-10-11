@@ -1,5 +1,3 @@
-
-
-Make date: Пт окт 20 12:08:16 +07 2017
-
-Number of lines in guessinggame.sh: 25
+Title: guessinggame
+Make date: Tue 11 15:45:01 EDT 2022
+Number of lines in guessinggame.sh: 22
